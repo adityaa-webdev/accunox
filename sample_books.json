@@ -1,0 +1,28 @@
+[
+
+{
+"title": "Pride and Prejudice",
+"author": "Jane Austen",
+"publication_year": 1813
+},
+{
+"title": "To Kill a Mockingbird",
+"author": "Harper Lee",
+"publication_year": 1960
+},
+{
+"title": "The Lord of the Rings",
+"author": "J. R. R. Tolkien",
+"publication_year": 1954
+},
+{
+"title": "One Hundred Years of Solitude",
+"author": "Gabriel García Márquez",
+"publication_year": 1967
+},
+{
+"title": "Frankenstein",
+"author": "Mary Shelley",
+"publication_year": 1818
+}
+]
